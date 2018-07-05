@@ -25,4 +25,4 @@ Product Service endpointURI:
 
 Database:
 I am connecting to MySQL database in this project. 
-
+I have added the complete sql script file as mysqlsampledatabase.sql for your use.
